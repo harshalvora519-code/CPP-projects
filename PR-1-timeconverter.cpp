@@ -37,3 +37,19 @@ class Timeconverter{
             obj.toseconds(h,m,s);
         }
     }
+
+/*
+output:
+ 1.seconds to time
+ 2.time to seconds
+ choose:1
+ enter total seconds:15000
+ HH:MM:SS: => 4:10:0
+ 
+ choose:2
+ enter hours:4
+ enter minutes:30
+ enter seconds:50
+ total seconds:16250
+
+*/
